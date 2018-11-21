@@ -22,6 +22,6 @@
 ## Invoice
 ![alt text](https://github.com/dappsh/PryceFrontEnd/blob/master/src/img/ss8.jpg)
 
-## List history invoice
+## History invoice
 ![alt text](https://github.com/dappsh/PryceFrontEnd/blob/master/src/img/ss9.jpg)
 
