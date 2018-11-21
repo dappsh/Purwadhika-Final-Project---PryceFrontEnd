@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="21mm" height="30.5mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2100 3050"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#FFE030;stroke-width:7.62}
+    .str0 {stroke:#FFF530;stroke-width:7.62}
+    .fil0 {fill:#EB6F93}
+    .fil5 {fill:#6BC2D2}
+    .fil1 {fill:#34ABBA}
+    .fil4 {fill:#3B96A6}
+    .fil3 {fill:#FFE030}
+    .fil2 {fill:#FFF530}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="2100" height="3050"/>
+  <polygon class="fil1" points="30,3001 30,232 213,232 213,3001 "/>
+  <polygon class="fil2 str0" points="364,3001 364,574 547,574 547,3001 "/>
+  <polygon class="fil3 str1" points="364,672 364,574 547,574 547,672 "/>
+  <polygon class="fil4" points="30,330 30,232 213,232 213,330 "/>
+  <polygon class="fil3 str1" points="649,1897 987,1897 987,2081 649,2081 "/>
+  <polygon class="fil4" points="649,1556 987,1556 987,1739 649,1739 "/>
+  <polygon class="fil4" points="987,1556 2070,802 2070,986 987,1739 "/>
+  <polygon class="fil1" points="987,232 2070,986 2070,802 987,49 "/>
+  <polygon class="fil4" points="2017,1023 1885,931 987,1556 987,1739 "/>
+  <polygon class="fil1" points="1777,1189 1646,1097 987,1556 987,1739 "/>
+  <polygon class="fil3" points="987,1897 2070,1144 2070,1327 987,2081 "/>
+  <polygon class="fil3 str1" points="987,574 2070,1327 2070,1144 987,391 "/>
+  <polygon class="fil2 str0" points="2017,1364 1885,1273 987,1897 987,2081 "/>
+  <polygon class="fil2 str0" points="364,391 987,391 987,574 364,574 "/>
+  <polygon class="fil5" points="30,49 987,49 987,232 30,232 "/>
+ </g>
+</svg>
