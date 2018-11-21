@@ -1,5 +1,5 @@
 ## Logo Pryce
-![alt text](https://github.com/dappsh/PryceFrontEnd/blob/master/src/img/logofull.jpg)
+![alt text](https://github.com/dappsh/PryceFrontEnd/blob/master/src/img/logofull.png)
 
 ## User Register
 ![alt text](https://github.com/dappsh/PryceFrontEnd/blob/master/src/img/ss1.jpg)
