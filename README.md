@@ -4,7 +4,7 @@
 ## User Login
 ![alt text](https://github.com/dappsh/PryceFrontEnd/blob/master/src/img/ss2.jpg)
 
-## Home 
+## Home - After Login Page
 ![alt text](https://github.com/dappsh/PryceFrontEnd/blob/master/src/img/ss3.jpg)
 
 ## Product detail & add to cart
